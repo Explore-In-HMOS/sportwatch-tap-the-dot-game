@@ -5,7 +5,7 @@ export default {
         isGameOver: false,
         startTime: 0,
         dotX: 227,
-        dotY: 227,
+        dotY: 227
     },
 
     onShow() {

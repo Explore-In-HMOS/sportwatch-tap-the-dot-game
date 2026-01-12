@@ -1,7 +1,7 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.tapthedot",
-    "vendor": "example",
+    "bundleName": "com.hmosdemos.lite_wearable.tap_the_dot_game",
+    "vendor": "hmosdemos",
     "version": {
       "code": 1000000,
       "name": "1.0.0"
