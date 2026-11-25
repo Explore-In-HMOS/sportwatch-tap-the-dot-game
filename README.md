@@ -1,5 +1,7 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
+> **Known issue:** This app renders its UI with the Canvas component. It has been tested and runs as expected on the SportWatch emulator, but Canvas rendering does not work reliably on physical SportWatch devices.
+
 # Tap The Dot Game
 
 Tap The Dot is a reflex-based game built for HarmonyOS Sport devices. The goal is simple: tap the dot as quickly as possible
